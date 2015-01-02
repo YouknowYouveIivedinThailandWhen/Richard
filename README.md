@@ -1,2 +1,2 @@
-Richard
+Richard Barton
 =======
